@@ -7,6 +7,8 @@ while(number > 0){
 }
 console.log("The number of digit is:" + digitCount);
 
+// output answer
+// The number of digit is:9
 
 
 
